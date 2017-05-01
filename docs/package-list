@@ -1,0 +1,14 @@
+com.ardock.moodapp.moodock.app.data.persistence.cache.utils
+com.ardock.moodapp.moodock.app.data.persistence.converters
+com.ardock.moodapp.moodock.app.data.persistence.utils
+com.ardock.moodapp.moodock.app.domain.controllers
+com.ardock.moodapp.moodock.app.domain.convertibles
+com.ardock.moodapp.moodock.app.domain.services
+com.ardock.moodapp.moodock.app.domain.utils
+com.ardock.moodapp.moodock.lib.common.utils
+com.ardock.moodapp.moodock.lib.data.persistence.converters
+com.ardock.moodapp.moodock.lib.data.persistence.objects
+com.ardock.moodapp.moodock.lib.data.persistence.transactions
+com.ardock.moodapp.moodock.lib.data.persistence.transitions
+com.ardock.moodapp.moodock.lib.data.persistence.utils
+com.ardock.moodapp.moodock.lib.domain.utils
